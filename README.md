@@ -18,6 +18,7 @@ $product-requirements-discovery
 - **產品框架**　依目標、場景、流程、邊界、驗收五層排列，每層呈現對應方法得到的結論與依據。
 - **功能清單與九欄功能卡**　每個功能有 ID、對應流程、優先級，以及可追溯的欄位結論。
 - **驗收案例與待確認事項**　用 Given–When–Then 寫前提、事件和可觀察結果，並列出仍需取得的答案或決議。
+- **Markdown PRD**　要求產出 PRD 時，套用固定章節，將框架、功能規格、跨功能需求、驗收和決策紀錄整合成一份文件。
 
 ## 套件內容
 
@@ -25,6 +26,7 @@ $product-requirements-discovery
 |---|---|
 | [使用說明書](USAGE.md) | 安裝步驟、可複製指令、訪談方式與交付檢查。 |
 | [SKILL.md](SKILL.md) | Skill 的工作流程、問句和完成條件。 |
+| [專用 PRD 模板](assets/prd-template.md) | 單份 PRD 的章節、九欄功能卡、驗收與來源紀錄。 |
 | [十二種提問法](references/question-methods.md) | 功能欄位有缺口時，選擇適合的追問。 |
 | [會議室預約案例](references/worked-example.md) | 對照五層框架、功能卡與驗收案例。 |
 | [維護規格](SPEC.md)與[來源紀錄](SOURCES.md) | 觸發範圍、驗證方式及方法來源。 |
